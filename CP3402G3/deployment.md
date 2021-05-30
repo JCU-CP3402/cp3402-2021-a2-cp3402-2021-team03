@@ -16,10 +16,6 @@ Collective Intelligence & Plan: Github<br>
 # Site Workflow
 In this section we will briefly discuss our workflow in developing the site, which will be useful for future developlors and managers.
 
-## Workflow Diagram
-
-![This is the workflow diagram ](https://i.loli.net/2021/05/28/Cjw3r7bqHRE4LDv.png)
-
 ## Hosting
 We used Google Cloud for hosting our site. But for file transportation,files can be uploaded through wordpress.
 
