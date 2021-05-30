@@ -20,7 +20,7 @@ CP3402G3 is a theme developed by TeamG3 mainly for the ASG series of websites. I
 5. Navigate to Appearance > Customize in your admin panel and customize to your taste.
 
 == Privacy ==
-Twenty Twenty-One uses LocalStorage to save the setting when Dark Mode support is turned on or off.
+G3 uses LocalStorage to save the setting when Dark Mode support is turned on or off.
 LocalStorage is necessary for the setting to work and is only used when a user clicks on the Dark Mode button.
 No data is saved in the database or transferred.
 
