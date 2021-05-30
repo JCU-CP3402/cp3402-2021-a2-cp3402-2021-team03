@@ -14,7 +14,7 @@ Communication: Discord & Wechat<br>
 Collective Intelligence & Plan: Github<br>
 
 # Site Workflow
-In this section we will briefly discuss our workflow in developing the site, which will be useful for future developlors and managers.
+In this section we will briefly discuss our workflow in developing the site, which will be useful for future developlors and managers.</br>
 To join our Workflow, you can find us in this repository's discussion, we mainly distribute tasks there.
 
 ## Hosting
