@@ -1,5 +1,5 @@
-=== Twenty Twenty-One ===
-Contributors: wordpressdotorg
+=== CP3402G3 ===
+Contributors: G3 Team
 Requires at least: 5.3
 Tested up to: 5.7
 Requires PHP: 5.6
@@ -9,11 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush.
-
-With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine.
-
-Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.
+CP3402G3 is a theme developed by TeamG3 mainly for the ASG series of websites. It is based on the Theme Twuenty- One and extends the width of the page and the header and footer design.
 
 == Installation ==
 
